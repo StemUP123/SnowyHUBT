@@ -1,3 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/StemUP123/SnowyHUBz/main/Locked", true))()
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/StemUP123/SnowyHUBz/main/Locked", true))()
